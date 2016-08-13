@@ -5,3 +5,5 @@ stage
 coreboot-*
 tests/.coverage
 tests/htmlcov
+*~
+*\#*
